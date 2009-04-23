@@ -1,0 +1,19 @@
+SHAKESynth V1.0
+Chris Elsmore
+elsmorian@gmail.com
+
+SHAKESynth is a Theremin-like sound generator controlled by the
+movement of a SHAKE device. 
+
+It is a program written in the Java-based cross-platform 
+language, processing (http://www.processing.org) which you will 
+need to have installed to run the .pde files. You will also need
+a SHAKE device to control the generated sound.
+
+The program features 3 selectable sound wave types using the SHAKE
+navigation button control on the side. The selected wave is then
+control by movement of the SHAKE device - X-axis movement controls
+panning, Y-axis control the pitch and Z-axis controls the mute function:
+if the SHAKE is placed upside-down, the wave is muted.
+
+V1.0 - Initial version of SHAKEsynth software.
